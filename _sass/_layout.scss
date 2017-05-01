@@ -122,13 +122,11 @@ div.front {
 		top: 150px; 
 		left: 10%; 
 		width: 80%; 
-	}
-	h2 span { 
-		color: #fdc246;
-	        font-size: 2em;
-                text-shadow: 2px 2px #202020;
-		/*background: rgb(0, 0, 0);*/ /*sfallback color */
-		/*background: rgba(0, 0, 0, 0.4);*/
-		padding: 10px; 
+		span { 
+			color: #fdc246;
+	        	font-size: 2em;
+                	text-shadow: 2px 2px #202020;
+			padding: 10px; 
+		}
 	}
 }
