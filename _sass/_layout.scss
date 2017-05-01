@@ -63,7 +63,6 @@ time {
 }
 
 /* Aside */
-
 aside {
 	position: fixed;
 	top: 0;
@@ -75,7 +74,7 @@ aside {
 	box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
 	nav {
 		float: left;
-		max-width: 800px;
+		max-width: 900px;
 		margin: 0 auto;
 		ul {
 			margin: 0;
@@ -111,4 +110,25 @@ aside {
 footer {
 	text-align: center;
 	padding: 40px;
+}
+
+div.front { 
+	position: relative; 
+	width: 100%; /* for IE 6 */
+
+	h2 { 
+		position: absolute; 
+		text-align: center;
+		top: 150px; 
+		left: 10%; 
+		width: 80%; 
+	}
+	h2 span { 
+		color: #fdc246;
+	        font-size: 2em;
+                text-shadow: 2px 2px #202020;
+		/*background: rgb(0, 0, 0);*/ /*sfallback color */
+		/*background: rgba(0, 0, 0, 0.4);*/
+		padding: 10px; 
+	}
 }
