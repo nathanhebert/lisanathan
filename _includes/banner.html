@@ -1,14 +1,16 @@
+<header>
+	<h1><a id="link_home" href="{{site.url}}">{{ site.title }}</a></h1>
+</header>
+
 <script>
-window.onload = replace_link_for_different_urls() {
+function replace_link() {
     var pathArray = location.href.split( '/' );
     var protocol = pathArray[0];
     var host = pathArray[2];
     var url = protocol + '//' + host;
 
     document.getElementById('link_home').href=url
-};
+}
+window.onload = replace_link();
 </script>
-<header>
-	<h1><a id="link_home" href="{{site.url}}">{{ site.title }}</a></h1>
-</header>
  
