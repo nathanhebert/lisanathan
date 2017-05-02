@@ -29,7 +29,7 @@ One possible, but tiring, day's itinerary could be:
 ## What to do outside of Portland
 Columbia River Gorge: Less than an hour east of Portland, you can find the Columbia River Gorge. You'll find great views of Mount Hood and the Columbia River. There are hikes for all different ability levels, and vineyards and breweries too. The town of Hood River is fun to explore as well. 
 
-Willamette Valley Wineries: About 45 minutes south of Portland is Willamette Valley's wine country. With dozens of wineries and beatiful vineyards, you can explore this area on your own in a car, stopping in at for some tastings along the way, or schedule a wine tour to get driven around to several vineyards. 
+Willamette Valley Wineries: About 45 minutes south of Portland is Willamette Valley's wine country. With dozens of wineries and beatiful vineyards, you can explore this area on your own in a car, stopping in for some tastings along the way, or schedule a wine tour to get driven around to several vineyards. 
 
 Oregon Coast: You can get to the coast in about 90 minutes from Portland. Cannon Beach and Seaside are two popular towns, although there are many more! 
 
