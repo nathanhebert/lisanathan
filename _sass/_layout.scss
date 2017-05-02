@@ -38,16 +38,22 @@ a:hover {
 }
 header {
 	background: $header;
-        background-image: url("radpic.jpg");
+        background-image: url("bananner.jpg");
         background-size: cover;
         background-repeat: no-repeat;
-	padding: 0px 15px;
-	text-align: center;
+	padding: 100px 15px;
 	margin: 50px 0 0;
-	height: 50vh;
-	display: flex;
-	justify-content: left;
-	align-items: top;
+	width: $content-width;
+	margin-left:auto;
+	margin-right:auto;
+	left:0;
+	right:0;
+	a, a:visited { 
+		color: #fdc246;
+		//font-size: 2em;
+		text-shadow: 2px 2px #202020;
+		//padding: 10px; 
+	}
 }
 main {
 	padding: 0 15px;

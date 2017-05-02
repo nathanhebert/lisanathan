@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ
-permalink: /faq/
+title: Details
+permalink: /details/
 ---
 
 ## Why are we in this mess?
