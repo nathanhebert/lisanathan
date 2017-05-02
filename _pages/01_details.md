@@ -4,7 +4,7 @@ title: Details
 permalink: /details/
 ---
 
-## Why are we in this mess?
+## How did we get here?
 Lisa asked Nathan if he would marry her. Nathan said yes. They both desperately want *you* to be there to celebrate.
 
 ## What?! When? Where?
