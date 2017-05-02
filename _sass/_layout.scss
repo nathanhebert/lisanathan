@@ -116,6 +116,17 @@ aside {
 footer {
 	text-align: center;
 	padding: 40px;
+	a {
+		line-height: 20px;
+		font-family: 'Muli', sans-serif;
+		text-decoration: none;
+		&:hover,
+		&:active {
+			background: $header;
+			text-decoration: none;
+			color: $main;
+		}
+	}
 }
 
 .front { 
