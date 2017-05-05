@@ -14,7 +14,6 @@ Lisa asked Nathan if he would marry her. Nathan said yes. They both desperately 
 
 ## Are Nathan and Lisa feeding me?
 YES! Food, drinks. Yes, yes, yes.   
-**Note:** *Nathan and Lisa have arranged to provide you with plenty to eat and, well, more than plenty to drink. However, barring outstanding circumstances, they are relying on your unique and special ability to bring this bounty from the tables to your mouth. Plates and utensils are also provided.*
 
 ## Can I bring a guest?
 Of course! Just send back the RSVP response that came with your invitation and let us know.
@@ -26,7 +25,7 @@ The Colony is rented through the night. Don't worry about it!
 Didn't we say 'Don't worry about it?' The Colony is rented until noon the next day. Nobody is shutting this party down prematurely! Bring a sleeping bag if you like. Really.
 
 ## What about parking and transportation? 
-There is a parking lot available, as well as ample on-street parking. However, we strongly recommend taking public transportation (the 4 and 75 busses will take you there), riding your bike, or arranging a ride through taxi or other rideshare option. We want everyone to be able to enjoy the party without worrying about driving home! As mentioned above, we also have the venue until the next day, so if you need to leave your car overnight, that is fine also. 
+There is a parking lot available, as well as ample on-street parking. However, we strongly recommend taking [public transportation](http://trimet.org), riding your bike, or arranging a ride through taxi or other rideshare option. We want everyone to be able to enjoy the party without worrying about driving home! As mentioned above, we also have the venue until the next day, so if you need to leave your car overnight, that is fine also. 
 
 ## What should I wear? 
 Dress is semiformal. If you like to get dressed up, feel free to go all out. July in Portland is pretty warm, but the venue is indoors with air-condition. 
