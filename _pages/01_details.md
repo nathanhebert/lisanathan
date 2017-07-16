@@ -29,7 +29,7 @@ Didn't we say 'Don't worry about it?' The Colony is rented until noon the next d
 There is a parking lot available, as well as ample on-street parking. However, we strongly recommend taking [public transportation](http://trimet.org), riding your bike, or arranging a ride through taxi or other rideshare option. We want everyone to be able to enjoy the party without worrying about driving home! As mentioned above, we also have the venue until the next day, so if you need to leave your car overnight, that is fine also. 
 
 ## What should I wear? 
-Dress is semiformal. If you like to get dressed up, feel free to go all out. July in Portland is pretty warm, but the venue is indoors with air-condition. 
+Dress is semiformal. If you like to get dressed up, feel free to go all out. July in Portland is pretty warm, but the venue is indoors with air-conditioning. 
 
 ## Is there a registry?
 Nope! After 4+ years of cohabitation, we're pretty set with material goods. If there is a gift you are really excited about though, we of course would be excited to receive it! However, no need to bring anything but your self!
